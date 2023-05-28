@@ -28,6 +28,6 @@ kubectl -n argocd get secret argocd-initial-admin-secret -o jsonpath="{.data.pas
 ```
 6. In the browser you must enter https://ip-address:8080. Usaname: `admin`
 
-![Logging in to ArgoCD](./data/argo01w4.png)
+![Logging in to ArgoCD](.data/argo01w4.png)
 
 ![User interface](.data/argo02w4.png)
