@@ -9,12 +9,12 @@
 ### Demo
 * Deploying a "Hello world" application to a Kubernetes cluster using **minikube**.
 
--
+coming soon
 
 * Deploying a "Hello world" application to a Kubernetes cluster using **kind**.
 
--
+coming soon
 
 * Deploying a "Hello world" application to a Kubernetes cluster using **k3d**.
 
--
+coming soon
