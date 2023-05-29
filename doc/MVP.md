@@ -48,4 +48,5 @@ curl -F 'image=@/tmp/g.png' localhost:8088/img/
 ```
 
 Result:
+
 ![application output](.data/argo08w4t5.png)
