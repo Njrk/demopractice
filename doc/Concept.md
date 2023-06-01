@@ -9,12 +9,12 @@
 ### Demo
 * Deploying a "Hello world" application to a Kubernetes cluster using **minikube**.
 
-coming soon
+[![asciicast](https://asciinema.org/a/588949.svg)](https://asciinema.org/a/588949)
 
 * Deploying a "Hello world" application to a Kubernetes cluster using **kind**.
 
-coming soon
+[![asciicast](https://asciinema.org/a/588959.svg)](https://asciinema.org/a/588959)
 
 * Deploying a "Hello world" application to a Kubernetes cluster using **k3d**.
 
-coming soon
+[![asciicast](https://asciinema.org/a/588961.svg)](https://asciinema.org/a/588961)
