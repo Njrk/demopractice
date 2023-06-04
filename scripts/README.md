@@ -3,7 +3,7 @@
 1 Download the **kubeplugin** script to your computer using the commands:
 
 ```bash
-  curl -O 
+  curl -O https://github.com/Njrk/demopractice/blob/main/scripts/kubeplugin
 ```
 
 2 Add execute permission to the file:
