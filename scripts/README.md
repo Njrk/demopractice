@@ -1,36 +1,36 @@
 # Instructions for using the **kubeplugin**
 
-1 Download the **kubeplugin** script to your computer using the commands:
+1. Download the **kubeplugin** script to your computer using the commands:
 
 ```bash
   curl -O https://github.com/Njrk/demopractice/blob/main/scripts/kubeplugin
 ```
 
-2 Add execute permission to the file:
+2. Add execute permission to the file:
 
 ```bash
   chmod +x kubeplugin
 ```
 
-3 Install the plugin using:
+3. Install the plugin using:
 
 ```bash
   sudo cp kubeplugin /usr/local/bin/kubectl-kubeplugin
 ```
 
-4 Check for installed plugin:
+4. Check for installed plugin:
 
 ```bash
   kubectl plugin list
 ```
 
-5 Usage:
+5. Usage:
 
 ```bash
   kubectl kubeplugin [<resource_type>] [<namespace>]
 ```
 
-6 Example:
+6. Example:
 
 ```bash
 root@demo:~# kubectl kubeplugin pods kube-system
