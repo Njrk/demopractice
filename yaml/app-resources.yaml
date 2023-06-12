@@ -1,0 +1,19 @@
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: app-resource
+spec:
+  containers:
+    - image: njrk/hello_demo
+      name: app    
+      ports:
+        - containerPort: 8080
+          name: http      
+      resources:
+        requests:
+          cpu: "100m"
+          memory: "128Mi"
+        limits:
+         cpu: "100m"
+         memory: "256Mi"
